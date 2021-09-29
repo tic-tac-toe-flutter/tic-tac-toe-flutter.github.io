@@ -47138,9 +47138,9 @@ $0:function(){--this.a.d},
 $S:0}
 F.WT.prototype={
 $1:function(a){var s=null,r=this.a,q=L.fr(this.b,A.iN(s,s,r.Lb(r.y),s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s)),p=L.fr("Press to Restart the Game",s),o=H.a([D.x2(L.fr("Clear",s),new F.WP(r,a),s),D.x2(L.fr("Reset",s),new F.WQ(r,a),s)],t.p),n=r.d
-if(n<9)o.push(D.x2(L.fr(""+(n+1)+" Cells",s),new F.WR(r,a),s))
+if(n<9)o.push(D.x2(L.fr(""+(n+1),s),new F.WR(r,a),s))
 n=r.d
-if(n>2)o.push(D.x2(L.fr(""+(n-1)+" Cells",s),new F.WS(r,a),s))
+if(n>2)o.push(D.x2(L.fr(""+(n-1),s),new F.WS(r,a),s))
 return new E.l8(q,p,o,s)},
 $S:315}
 F.WP.prototype={
