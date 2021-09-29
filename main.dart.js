@@ -47131,11 +47131,11 @@ s.x=s.r=0},
 $S:0}
 F.WJ.prototype={
 $0:function(){var s=this.a;++s.d
-s.f-=10},
+s.f-=15},
 $S:0}
 F.WH.prototype={
 $0:function(){var s=this.a;--s.d
-s.f+=10},
+s.f+=15},
 $S:0}
 F.WT.prototype={
 $1:function(a){var s=null,r=this.a,q=L.fr(this.b,A.iN(s,s,r.Lb(r.y),s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s)),p=L.fr("Press to Restart the Game",s),o=H.a([D.x2(L.fr("Clear",s),new F.WP(r,a),s),D.x2(L.fr("Reset",s),new F.WQ(r,a),s)],t.p),n=r.d
